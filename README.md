@@ -1,13 +1,21 @@
+Olá! Sou o @JpGomes035.
 
-👋 Hi, I'm @JpGomes035
-👀 I'm interested in Web Development with PHP, MySQL.
-🌱 Currently, I'm learning through my college and my second course in the IT field.
-💞️ I'm looking to collaborate on Web Systems Development.
-📫 How to reach me: Contat.joao10@gmail.com
-😄 Pronouns: he/him
-⚡ Fun fact: I enjoy learning various random things in my free time.
+Atualmente, trabalho como desenvolvedor full stack na GFInnovation. Minhas competências incluem:
 
-<!---
-JpGomes035/JpGomes035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bancos de dados: PostgreSQL, phpMyAdmin, MySQL
+
+Linguagens de programação: PHP, Java, JavaScript
+
+Estou cursando Sistemas de Informação, aprofundando meus conhecimentos em tecnologia da informação e gestão de sistemas. Além disso, concluí três cursos:
+
+Análise e Desenvolvimento de Sistemas: Focado no desenvolvimento, implementação e manutenção de sistemas de software. 
+
+Programação: Curso profissionalizante que aprimorou minhas habilidades em diversas linguagens de programação.
+
+Lógica de Programação: Curso profissionalizante que fortaleceu meu raciocínio lógico e resolução de problemas.
+
+Como me contatar: contat.joao10@gmail.com
+
+Pronomes: ele/dele
+
+Curiosidade: gosto de aprender diversas coisas aleatórias no meu tempo livre
