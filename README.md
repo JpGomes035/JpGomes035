@@ -1,6 +1,6 @@
 # Olá! Eu sou o @JpGomes035 👋
 
-🎯 Atualmente, trabalho como **Desenvolvedor Full Stack na GF Innovation**, contribuindo com soluções modernas e escaláveis.
+🎯 Sou **Desenvolvedor Full Stack** com experiência em soluções modernas e escaláveis, atuando com foco em qualidade, performance e usabilidade.
 
 ## 💻 Minhas principais competências:
 
@@ -25,7 +25,12 @@
   - Fundos de Investimento em Direitos Creditórios (FIDC)
   - Compliance e Perfil do Investidor
 
-## 🛠 Projetos Relevantes:
+## 🛠 Experiências Relevantes:
+
+- **GF Innovation** – Atuação como Desenvolvedor Full Stack, utilizando **Java, PostgreSQL, JavaScript, Docker e Git** para construção de soluções web escaláveis.
+- **TCI Sistemas** – Experiência com suporte técnico, banco de dados SQL e manutenção de sistema ERP.
+
+## 🛠 Projetos Pessoais:
 
 - Desenvolvimento de um **sistema completo de gestão empresarial** com:
   - Módulos de estoque, financeiro, pedidos e e-commerce
