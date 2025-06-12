@@ -1,21 +1,47 @@
-Olá! Sou o @JpGomes035.
+# Olá! Eu sou o @JpGomes035 👋
 
-Atualmente, trabalho como desenvolvedor full stack na GFInnovation. Minhas competências incluem:
+🎯 Atualmente, trabalho como **Desenvolvedor Full Stack na GF Innovation**, contribuindo com soluções modernas e escaláveis.
 
-Bancos de dados: PostgreSQL, phpMyAdmin, MySQL
+## 💻 Minhas principais competências:
 
-Linguagens de programação: PHP, Java, JavaScript
+- **Linguagens de Programação**: PHP, Java, JavaScript  
+- **Bancos de Dados**: PostgreSQL, MySQL, phpMyAdmin  
+- **Ferramentas & Tecnologias**: Docker, Git
 
-Estou cursando Sistemas de Informação, aprofundando meus conhecimentos em tecnologia da informação e gestão de sistemas. Além disso, concluí três cursos:
+## 🎓 Formação Acadêmica:
 
-Análise e Desenvolvimento de Sistemas: Focado no desenvolvimento, implementação e manutenção de sistemas de software. 
+- **Análise e Desenvolvimento de Sistemas – SENAI Itajubá (concluído em 2022)**
+- **Sistemas de Informação – UNOPAR (em andamento)**
 
-Programação: Curso profissionalizante que aprimorou minhas habilidades em diversas linguagens de programação.
+## 📜 Certificações:
 
-Lógica de Programação: Curso profissionalizante que fortaleceu meu raciocínio lógico e resolução de problemas.
+- **ITIL – SENAI Itajubá (2022)**
+- **Fundação Bradesco**:
+  - Introdução à Programação
+  - Lógica de Programação
+- **AMBIMA**:
+  - Mercado Financeiro de A a Z
+  - Fundos de Investimento
+  - Fundos de Investimento em Direitos Creditórios (FIDC)
+  - Compliance e Perfil do Investidor
 
-Como me contatar: contat.joao10@gmail.com
+## 🛠 Projetos Relevantes:
 
-Pronomes: ele/dele
+- Desenvolvimento de um **sistema completo de gestão empresarial** com:
+  - Módulos de estoque, financeiro, pedidos e e-commerce
+  - Desenvolvido com **PHP** e gerenciamento via **PhpMyAdmin**
+  - Interface intuitiva, controle de usuários e integração com WhatsApp
 
-Curiosidade: gosto de aprender diversas coisas aleatórias no meu tempo livre
+## 📬 Como me contatar:
+
+- **Email**: contat.joao10@gmail.com  
+- **LinkedIn**: [João Pedro Gomes](https://www.linkedin.com/in/joão-pedro-gomes-17880224a)  
+- **Pronomes**: ele/dele  
+
+## 🧠 Curiosidade:
+
+Gosto de aprender coisas aleatórias no meu tempo livre — de programação até curiosidades de história e ciência.
+
+---
+
+🔎 Sempre em busca de desafios que me permitam crescer como desenvolvedor e entregar soluções de impacto!
