@@ -40,7 +40,7 @@
 ## 📬 Como me contatar:
 
 - **Email**: contat.joao10@gmail.com
-- **Portfólio**: (https://jpgomes035.github.io/joaopedro-portfolio/)  
+- **Portfólio**: https://jpgomes035.github.io/joaopedro-portfolio/
 - **LinkedIn**: [João Pedro Gomes](https://www.linkedin.com/in/joão-pedro-gomes-17880224a)  
 - **Pronomes**: ele/dele  
 
