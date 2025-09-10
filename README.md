@@ -36,6 +36,11 @@
   - Módulos de estoque, financeiro, pedidos e e-commerce
   - Desenvolvido com **PHP** e gerenciamento via **PhpMyAdmin**
   - Interface intuitiva, controle de usuários e integração com WhatsApp
+- Outros Projetos:
+  - Sistema de agendamento com controle de conclusão e responsável com **PHP** e gerenciamento via **PhpMyAdmin**
+  - Sistema de envio de email com listagem de e-mails, anexo e envio com rapidez e facilidade com **PHP** e gerenciamento via **PhpMyAdmin**  
+  - Sistema de controle de XML fiscal para importação, visualização e edição com **PHP** e gerenciamento via **PhpMyAdmin**
+  - Sistema de controle de pedidos de venda ou compra, controle de produtos, fornecedores e clientes com **PHP** e gerenciamento via **PhpMyAdmin**
 
 ## 📬 Como me contatar:
 
