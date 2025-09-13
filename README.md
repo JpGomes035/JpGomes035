@@ -1,58 +1,82 @@
-# Olá! Eu sou o @JpGomes035 👋
+# Olá 👋! Meu nome é João Pedro Gomes e sou Desenvolvedor Full Stack  
 
-🎯 Sou **Desenvolvedor Full Stack** com experiência em soluções modernas e escaláveis, atuando com foco em qualidade, performance e usabilidade.
+---
 
-## 💻 Minhas principais competências:
+<div align="center">
 
-- **Linguagens de Programação**: PHP, Java, JavaScript  
-- **Bancos de Dados**: PostgreSQL, MySQL, phpMyAdmin  
-- **Ferramentas & Tecnologias**: Docker, Git
+### 🚀 Desenvolvedor focado em qualidade, performance e usabilidade
 
-## 🎓 Formação Acadêmica:
+---
 
-- **Análise e Desenvolvimento de Sistemas – SENAI Itajubá (concluído em 2022)**
-- **Sistemas de Informação – UNOPAR (em andamento)**
+📊 **Estatísticas do GitHub**
 
-## 📜 Certificações:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JpGomes035&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical)
 
-- **ITIL – SENAI Itajubá (2022)**
-- **Fundação Bradesco**:
-  - Introdução à Programação
-  - Lógica de Programação
-- **AMBIMA**:
-  - Mercado Financeiro de A a Z
-  - Fundos de Investimento
-  - Fundos de Investimento em Direitos Creditórios (FIDC)
-  - Compliance e Perfil do Investidor
+---
 
-## 🛠 Experiências Relevantes:
+### 🔧 Tecnologias & Ferramentas
 
-- **GF Innovation** – Atuação como Desenvolvedor Full Stack, utilizando **Java, PostgreSQL, JavaScript, Docker e Git** para construção de soluções web escaláveis.
-- **TCI Sistemas** – Experiência com suporte técnico, banco de dados SQL e manutenção de sistema ERP.
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🛠 Projetos Pessoais:
+---
 
-- Desenvolvimento de um **sistema completo de gestão empresarial** com:
-  - Módulos de estoque, financeiro, pedidos e e-commerce
-  - Desenvolvido com **PHP** e gerenciamento via **PhpMyAdmin**
-  - Interface intuitiva, controle de usuários e integração com WhatsApp
-- Outros Projetos:
-  - Sistema de agendamento com controle de conclusão e responsável com **PHP** e gerenciamento via **PhpMyAdmin**
-  - Sistema de envio de email com listagem de e-mails, anexo e envio com rapidez e facilidade com **PHP** e gerenciamento via **PhpMyAdmin**  
-  - Sistema de controle de XML fiscal para importação, visualização e edição com **PHP** e gerenciamento via **PhpMyAdmin**
-  - Sistema de controle de pedidos de venda ou compra, controle de produtos, fornecedores e clientes com **PHP** e gerenciamento via **PhpMyAdmin**
+### 🎓 Formação Acadêmica
 
-## 📬 Como me contatar:
+- 🎓 **Análise e Desenvolvimento de Sistemas – SENAI Itajubá (2022)**
+- 🎓 **Sistemas de Informação – UNOPAR (em andamento)**
 
-- **Email**: contat.joao10@gmail.com
-- **Portfólio**: [Ver Portfólio](https://jpgomes035.github.io/joaopedro-portfolio/)
-- **LinkedIn**: [João Pedro Gomes](https://www.linkedin.com/in/joão-pedro-gomes-17880224a)  
-- **Pronomes**: ele/dele  
+---
 
-## 🧠 Curiosidade:
+### 📜 Certificações
 
+- 🏅 **ITIL – SENAI Itajubá (2022)**
+- 🏅 **Fundação Bradesco**: Introdução à Programação, Lógica de Programação
+- 🏅 **AMBIMA**: Mercado Financeiro, Fundos de Investimento, FIDC, Compliance e Perfil do Investidor  
+
+---
+
+### 💼 Experiências Relevantes
+
+- **GF Innovation** – Desenvolvedor Full Stack  
+  Tecnologias: **Java, PostgreSQL, JavaScript, Docker e Git**
+  
+- **TCI Sistemas** – Suporte técnico, SQL e ERP
+
+---
+
+### 🛠 Projetos Pessoais
+
+- Sistema completo de gestão empresarial (**PHP + PhpMyAdmin**)  
+  → Estoque, financeiro, pedidos e e-commerce com integração ao WhatsApp  
+
+- Outros projetos:  
+  ✔ Sistema de agendamento com conclusão e responsável  
+  ✔ Sistema de envio de e-mails com anexos  
+  ✔ Controle de XML fiscal  
+  ✔ Sistema de pedidos (vendas e compras) com controle de produtos, fornecedores e clientes  
+
+---
+
+### 📬 Como me contatar
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contat.joao10@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jpgomes035.github.io/joaopedro-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-gomes-17880224a)
+
+---
+
+🧠 **Curiosidade:**  
 Gosto de aprender coisas aleatórias no meu tempo livre — de programação até curiosidades de história e ciência.
 
 ---
 
 🔎 Sempre em busca de desafios que me permitam crescer como desenvolvedor e entregar soluções de impacto!
+
+</div>
