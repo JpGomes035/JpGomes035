@@ -38,11 +38,18 @@ Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bon
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=JpGomes035&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" />
+<!-- Painel principal -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JpGomes035&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&v=1" />
 
-<img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical&hide_border=true&v=1" />
+
+---
+
+<!-- Gráfico de contribuições em cobra -->
+<img src="https://raw.githubusercontent.com/JpGomes035/JpGomes035/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
+
 
 ---
 
