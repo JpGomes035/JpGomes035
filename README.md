@@ -1,5 +1,5 @@
 # 🚀 João Pedro Gomes  
-### *Desenvolvedor Full Stack • Criando soluções modernas e escaláveis*
+### *Desenvolvedor Back-End • Criando soluções modernas e escaláveis*
 
 🙋‍♂️ Olá! Sou apaixonado por tecnologia, código limpo e arquitetura bem feita.  
 Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bonitas.
@@ -8,7 +8,7 @@ Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bon
 
 ## 🔥 Sobre mim
 
-- 💻 Desenvolvedor **Full Stack**  
+- 💻 Desenvolvedor **Back-End**  
 - 🚧 Experiência com **sistemas ERP, PDV e integrações SQL**  
 - 📈 Sempre estudando novas tecnologias e boas práticas  
 - 🎯 Buscando evoluir diariamente como profissional  
@@ -52,15 +52,4 @@ Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bon
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-gomes-17880224a)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jpgomes035.github.io/joaopedro-portfolio/)
 
----
 
-## ✨ Obrigado por visitar!
-
-Se quiser, posso adicionar:
-✔ Uma seção de projetos  
-✔ Um GIF animado  
-✔ Uma timeline de carreira  
-✔ Badges personalizados  
-✔ Versão minimalista/dark  
-
-Só pedir!
