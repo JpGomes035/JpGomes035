@@ -38,9 +38,9 @@ Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bon
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JpGomes035&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=JpGomes035&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
