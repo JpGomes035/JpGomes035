@@ -34,18 +34,8 @@ Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bon
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-
-<!-- Painel principal -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JpGomes035&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&v=1" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical&hide_border=true&v=1" />
-
-</div>
-
----
+📊 Minhas Estatísticas no GitHub
+<div align="center"> <a href="https://github.com/JpGomes035"> <img src="https://github-readme-stats.vercel.app/api?username=JpGomes035&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true&v=3" height="180" /> </a> <a href="https://github.com/JpGomes035"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&v=3" height="180" /> </a> </div>
 
 # 💼 Projetos
 
