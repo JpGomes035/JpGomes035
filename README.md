@@ -1,5 +1,5 @@
 # 🚀 João Pedro Gomes  
-### *Desenvolvedor Full Stack • Criando soluções modernas e escaláveis*
+### *Desenvolvedor Back End • Criando soluções modernas e escaláveis*
 
 🙋‍♂️ Olá! Sou apaixonado por tecnologia, código limpo e arquitetura bem feita.  
 Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bonitas.
@@ -8,7 +8,7 @@ Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bon
 
 ## 🔥 Sobre mim
 
-- 💻 Desenvolvedor **Full Stack**  
+- 💻 Desenvolvedor **Back End**  
 - 🚧 Experiência com **sistemas ERP, PDV e integrações SQL**  
 - 📈 Sempre estudando novas tecnologias e boas práticas  
 - 🎯 Buscando evoluir diariamente como profissional  
@@ -44,9 +44,6 @@ Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bon
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical&hide_border=true&v=1" />
 
 ---
-
-<!-- Gráfico de contribuições em cobra -->
-<img src="https://raw.githubusercontent.com/JpGomes035/JpGomes035/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
