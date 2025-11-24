@@ -43,10 +43,7 @@ Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bon
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical&hide_border=true&v=1" />
 
----
-
 </div>
-
 
 ---
 
