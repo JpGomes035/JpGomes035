@@ -85,7 +85,7 @@ O projeto centraliza o fluxo entre unidades solicitantes, equipes responsáveis,
 
 ---
 
-## Projetos em destaque
+## Projetos
 
 ## IJA System
 Plataforma de gestão operacional para controle de solicitações, equipes, pilotos, ordens de serviço, checklists e relatórios.
