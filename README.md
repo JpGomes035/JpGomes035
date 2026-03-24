@@ -1,126 +1,159 @@
-# 🚀 João Pedro Gomes  
-### *Desenvolvedor Back End • Criando soluções modernas e escaláveis*
+<div align="center">
 
-🙋‍♂️ Olá! Sou apaixonado por tecnologia, código limpo e arquitetura bem feita.  
-Gosto de transformar ideias em aplicações reais — eficientes, rápidas e bonitas.
+# João Pedro Gomes
+### Desenvolvedor Back End | Sistemas de gestão, automação e operações com foco em escala
 
----
+Construo aplicações web robustas, com foco em organização de processos, performance, integração de dados e experiência real de uso no dia a dia.
 
-## 🔥 Sobre mim
-
-- 💻 Desenvolvedor **Back End**  
-- 🚧 Experiência com **sistemas ERP, PDV e integrações SQL**  
-- 📈 Sempre estudando novas tecnologias e boas práticas  
-- 🎯 Buscando evoluir diariamente como profissional  
+</div>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Sobre mim
 
-### **Back-end**
+Sou desenvolvedor Back End apaixonado por transformar processos complexos em sistemas claros, práticos e confiáveis.
+
+Tenho experiência com aplicações de gestão, operações em campo, controle de fluxo, relatórios, autenticação por perfis, integrações com banco de dados e organização de regras de negócio. Gosto de código limpo, arquitetura bem pensada e soluções que realmente resolvem problemas do usuário.
+
+### Hoje meu foco está em:
+- Desenvolvimento de sistemas web escaláveis
+- Modelagem de regras de negócio e banco de dados
+- Integrações com APIs e serviços externos
+- Relatórios, automações e rastreabilidade operacional
+- Evolução contínua em arquitetura, performance e boas práticas
+
+---
+
+## Projeto em destaque
+
+## IJA System
+
+Sistema web voltado à gestão operacional de solicitações, ordens de serviço e execução de atividades com drones.
+
+O projeto centraliza o fluxo entre unidades solicitantes, equipes responsáveis, pilotos e administradores, oferecendo mais controle, rastreabilidade e produtividade em todo o processo.
+
+### O que esse sistema entrega:
+- Autenticação com perfis de acesso distintos
+- Gestão de solicitações e ordens de serviço
+- Controle de equipes, pilotos e unidades
+- Cadastro e gestão de drones, baterias e veículos
+- Checklists operacionais de drone e veículo
+- Agenda com eventos e notificações
+- Geolocalização e apoio com Google Maps
+- Exportação de relatórios em PDF e Excel
+- Registro de abastecimentos e logs operacionais
+- Backup automatizado e organização de arquivos
+
+### Stack do projeto:
+`Python` · `Flask` · `SQLAlchemy` · `PostgreSQL` · `Bootstrap` · `JavaScript` · `Google Maps API` · `OpenPyXL` · `ReportLab` · `Dropbox`
+
+---
+
+## Tecnologias & Ferramentas
+
+### Back-end
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Front-end**
+### Front-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1E3A8A?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Banco de Dados**
+### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Infra & DevOps**
+### Infra & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## Estatísticas no GitHub
 
 <div align="center">
 
-<!-- Painel principal -->
 <img width="49%" src="https://streak-stats.demolab.com?user=JpGomes035&theme=radical&hide_border=true" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGomes035&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
-# 💼 Projetos
-
 ---
 
-## 📘 **ProControl – Sistema de Gestão**
+## Projetos em destaque
 
-ERP completo desenvolvido em **PHP + MySQL**, projetado para empresas de diversos segmentos.  
-Inclui módulos de PDV, estoque, financeiro, vendas, relatórios avançados e e-commerce integrado.
-
-**Tecnologias:**  
-`PHP` · `MySQL` · `Bootstrap` · `JavaScript` · `Relatórios Excel`
+## IJA System
+Plataforma de gestão operacional para controle de solicitações, equipes, pilotos, ordens de serviço, checklists e relatórios.
 
 **Destaques:**
-- Gestão de estoque, compras e vendas  
-- Controle financeiro com alertas automáticos  
-- Envio de e-mails transacionais  
-- Relatórios completos e exportação Excel  
-- E-commerce conectado ao catálogo de produtos  
-- PDV integrado ao fluxo operacional  
-
----
-
-## 💬 **ProControl – Sistema de Chat**
-
-Sistema corporativo de comunicação interna com suporte a setores, conversas individuais, grupos e agenda de tarefas.  
-Criado para aumentar produtividade e organização dentro de empresas.
+- Fluxo completo da solicitação até a execução
+- Separação de permissões por tipo de usuário
+- Geolocalização com apoio de mapas e coordenadas
+- Gestão de ativos operacionais como drones, baterias e veículos
+- Exportação de documentos e relatórios gerenciais
+- Histórico, notificações e rastreabilidade das operações
 
 **Tecnologias:**  
-`PHP` · `MySQL` · `Interface Moderna` · `DarkMode` · `Chat`
-
-**Destaques:**
-- Chats em tempo real por setor ou grupo  
-- Sistema de agendamentos com notificações  
-- E-mails automáticos para confirmações  
-- Controle de permissões por usuário e nível  
+`Python` · `Flask` · `PostgreSQL` · `SQLAlchemy` · `Bootstrap` · `JavaScript`
 
 ---
 
-## 📂 **ProControl – Sistema de Catálogo**
+## ProControl ERP
+Sistema de gestão empresarial com foco em operação, financeiro, estoque, vendas e processos internos.
 
-Plataforma para gestão de catálogo com produtos, promoções, imagens e atributos personalizados.  
-Perfeito para empresas que precisam organizar e divulgar seus produtos com eficiência.
+**Destaques:**
+- Controle de estoque, compras e vendas
+- Módulo financeiro com acompanhamento de fluxo
+- Relatórios operacionais e exportações
+- Integrações SQL e organização de dados
+- Estrutura pensada para crescimento e manutenção
 
 **Tecnologias:**  
-`PHP` · `MySQL` · `Interface Moderna` · `WhatsApp API` · `Catálogo`
-
-**Destaques:**
-- Pedidos via WhatsApp integrados  
-- Controle completo de estoque por produto  
+`PHP` · `MySQL` · `Bootstrap` · `JavaScript`
 
 ---
 
-## 🛒 **PDV – Ponto de Venda**
+## ProControl Chat
+Sistema corporativo de comunicação interna voltado à produtividade e organização entre setores.
 
-Módulo de frente de caixa integrado ao ProControl, projetado para operações rápidas no varejo.  
-Focado em velocidade, precisão e fluxo otimizado.
+**Destaques:**
+- Conversas individuais e em grupo
+- Separação por setores e permissões
+- Organização de tarefas e agendamentos
+- Interface focada em uso interno e produtividade
 
 **Tecnologias:**  
-`PHP` · `MySQL` · `Teclado Rápido` · `Comprovantes`  
-`Controle de Estoque` · `Controle de Caixa`
+`PHP` · `MySQL` · `JavaScript`
+
+---
+
+## PDV - Ponto de Venda
+Módulo de frente de caixa desenvolvido para operações rápidas e integradas ao fluxo do sistema.
 
 **Destaques:**
-- Busca rápida de produtos com atalhos (F-teclas)  
-- Emissão de comprovantes personalizados  
-- Integração total com estoque e financeiro  
-- Layout responsivo otimizado para PDV  
-- Abertura e fechamento de caixa com controle de fluxo  
+- Agilidade no atendimento
+- Integração com estoque e financeiro
+- Controle de caixa e emissão de comprovantes
+- Fluxo otimizado para operação no varejo
+
+**Tecnologias:**  
+`PHP` · `MySQL` · `JavaScript`
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contat.joao10@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-gomes-17880224a)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jpgomes035.github.io/joaopedro-portfolio/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contat.joao10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-gomes-17880224a)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jpgomes035.github.io/joaopedro-portfolio/)
 
 ---
 
-## ✨ Obrigado por visitar!
+## Obrigado pela visita
+
+Se você gosta de tecnologia, sistemas bem estruturados e soluções que saem do papel para resolver problemas reais, vamos nos conectar.
