@@ -1,7 +1,7 @@
 <div align="center">
 
 # João Pedro Gomes
-### Desenvolvedor Back End | Sistemas de gestão, automação e operações com foco em escala
+### Desenvolvedor Full-Stack | Sistemas de gestão, automação e operações com foco em escala
 
 Construo aplicações web robustas, com foco em organização de processos, performance, integração de dados e experiência real de uso no dia a dia.
 
@@ -11,7 +11,7 @@ Construo aplicações web robustas, com foco em organização de processos, perf
 
 ## Sobre mim
 
-Sou desenvolvedor Back End apaixonado por transformar processos complexos em sistemas claros, práticos e confiáveis.
+Sou desenvolvedor Full-Stack apaixonado por transformar processos complexos em sistemas claros, práticos e confiáveis.
 
 Tenho experiência com aplicações de gestão, operações em campo, controle de fluxo, relatórios, autenticação por perfis, integrações com banco de dados e organização de regras de negócio. Gosto de código limpo, arquitetura bem pensada e soluções que realmente resolvem problemas do usuário.
 
